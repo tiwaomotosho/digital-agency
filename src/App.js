@@ -1,10 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+
+import Header from "./components/Header/Header";
+import Hero from "./components/UI/Hero";
 
 function App() {
   return (
-    <h1>Hello World!</h1>
+    <>
+      <Header />
+      <Hero />
+    </>
   );
 }
 
-export default App
+export default App;
