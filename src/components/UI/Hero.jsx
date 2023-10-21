@@ -14,7 +14,8 @@ const Hero = () => {
               <h2 className="highlight">Promote your Brand</h2>
             </div>
             <p className="description">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel ea
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet
+              sequi ipsa expedita saepe consectetur dolor, voluptatum doloribus
             </p>
 
             <div className="hero__btns">
