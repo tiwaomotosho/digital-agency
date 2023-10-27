@@ -6,6 +6,8 @@ import Counter from "./components/UI/Counter";
 import Services from "./components/UI/Services";
 import About from "./components/UI/About";
 import Team from "./components/UI/Team";
+import Blog from "./components/UI/Blog";
+import Testimonial from "./components/UI/Testimonial";
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
       <Services />
       <About />
       <Team />
+      <Blog />
+      <Testimonial />
     </>
   );
 }
